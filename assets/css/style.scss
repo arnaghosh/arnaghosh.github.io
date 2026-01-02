@@ -79,9 +79,9 @@ header h1 a {
   position: relative;
 }
 
-/* 2. Inject "Arna Ghosh" in its place */
+/* 2. Inject " " in its place */
 header h1 a::after {
-  content: "Arna Ghosh";
+  content: " ";
   visibility: visible;
   position: absolute;
   left: 0;
