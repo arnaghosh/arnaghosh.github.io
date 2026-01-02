@@ -3,20 +3,19 @@ title: Arna Ghosh
 # description: [Short Bio / Your Tagline]
 logo: /assets/img/Arna-oldPort.jpg # If you have a photo in this folder
 show_downloads: false
-twitter_username: arna_ghosh
 # If you want to show your email
 description: >
   Research Scientist at Google Research
-  <br>
-  [first_name] g [at] google.com
   <br>
   Studying intelligence, both artificial & biological
   <br><br>
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css">
   <div style="font-size: 1.5rem;">
-    <a href="https://github.com/arnaghosh" style="margin-right: 15px; color: #24292e;"><i class="fa-brands fa-github"></i></a>
-    <a href="https://linkedin.com/in/arna-ghosh-47852b73" style="margin-right: 15px; color: #0077b5;"><i class="fa-brands fa-linkedin"></i></a>
-    <a title="Contact: [first_name] g [at] google [dot] com" style="color: #ea4335;"><i class="fa-solid fa-envelope"></i></a>
+    <a href="https://github.com/arnaghosh" style="margin-right: 15px; color: #24292e;" target="_blank" rel="noopener noreferrer"><i class="fa-brands fa-github"></i></a>
+    <a href="https://linkedin.com/in/arna-ghosh-47852b73" style="margin-right: 15px; color: #0077b5;" target="_blank" rel="noopener noreferrer"><i class="fa-brands fa-linkedin"></i></a>
+    <a href="https://twitter.com/arna_ghosh" target="_blank" rel="noopener noreferrer" style="margin-right: 12px; color: #000000;"><i class="fa-brands fa-x-twitter"></i></a>
+    <a href="https://bsky.app/profile/arnaghosh.bsky.social" target="_blank" rel="noopener noreferrer" style="margin-right: 12px; color: #0085ff;"><i class="fa-brands fa-bluesky"></i></a>
+    <a title="Contact: [first_name] g [at] google [dot] com" style="color: #ea4335; cursor: help;"><i class="fa-solid fa-envelope"></i></a>
   </div>
 # This allows us to use Font Awesome icons
 header_pages:
