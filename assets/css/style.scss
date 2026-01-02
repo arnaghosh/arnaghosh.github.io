@@ -2,32 +2,54 @@
 ---
 @import "{{ site.theme }}";
 
-/* Define Dark Mode Colors */
-[data-theme="dark"] {
+/* 1. Define variables on the body when the class is present */
+body.dark-mode {
   --bg-color: #0d1117;
   --text-color: #c9d1d9;
   --heading-color: #58a6ff;
   --card-bg: #161b22;
   --card-border: #30363d;
   --link-color: #58a6ff;
+  --sidebar-text: #8b949e;
+
+  /* Apply the background and text color immediately */
+  background-color: var(--bg-color) !important;
+  color: var(--text-color) !important;
 }
 
-/* Apply variables to the body when dark theme is active */
-body.dark-mode {
-  background-color: var(--bg-color);
-  color: var(--text-color);
-}
-
-body.dark-mode h1, body.dark-mode h2, body.dark-mode h3 {
-  color: var(--heading-color);
+/* 2. Force Dark Mode colors on specific elements */
+body.dark-mode h1, 
+body.dark-mode h2, 
+body.dark-mode h3, 
+body.dark-mode h4, 
+body.dark-mode strong {
+  color: var(--heading-color) !important;
 }
 
 body.dark-mode .project-card {
-  background-color: var(--card-bg);
-  border-color: var(--card-border);
+  background-color: var(--card-bg) !important;
+  border-color: var(--card-border) !important;
+  color: var(--text-color) !important;
 }
 
-body.dark-mode .project-link {
+body.dark-mode .tag {
+  background-color: #1f2937 !important;
+  color: #58a6ff !important;
+  border-color: #38444d !important;
+}
+
+body.dark-mode header p, 
+body.dark-mode header span {
+  color: var(--sidebar-text) !important;
+}
+
+/* Fix for the "Arna Ghosh" CSS swap we did earlier */
+body.dark-mode header h1 a::after {
+  color: var(--heading-color) !important;
+}
+
+/* Ensure links are visible */
+body.dark-mode a {
   color: var(--link-color);
 }
 
