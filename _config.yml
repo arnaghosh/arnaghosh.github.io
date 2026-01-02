@@ -8,7 +8,7 @@ twitter_username: arna_ghosh
 description: >
   Research Scientist at Google Research
   <br>
-  [first_name]g@google.com
+  [first_name] g [at] google.com
   <br>
   Studying intelligence, both artificial & biological
   <br><br>
@@ -16,7 +16,7 @@ description: >
   <div style="font-size: 1.5rem;">
     <a href="https://github.com/arnaghosh" style="margin-right: 15px; color: #24292e;"><i class="fa-brands fa-github"></i></a>
     <a href="https://linkedin.com/in/arna-ghosh-47852b73" style="margin-right: 15px; color: #0077b5;"><i class="fa-brands fa-linkedin"></i></a>
-    <a href="mailto:arnag@google.com" style="color: #ea4335;"><i class="fa-solid fa-envelope"></i></a>
+    <a title="Contact: [first_name] g [at] google [dot] com" style="color: #ea4335;"><i class="fa-solid fa-envelope"></i></a>
   </div>
 # This allows us to use Font Awesome icons
 header_pages:
