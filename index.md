@@ -51,3 +51,31 @@ Briefly introduce yourself here. I am a developer interested in...
 ### Skills
 * **Languages:** JavaScript, Python, SQL
 * **Tools:** Git, Docker, AWS
+
+---
+
+<button id="theme-toggle" title="Toggle Dark Mode">🌙</button>
+
+<script>
+  const btn = document.getElementById("theme-toggle");
+  const currentTheme = localStorage.getItem("theme");
+
+  // Check for saved user preference
+  if (currentTheme === "dark") {
+    document.body.classList.add("dark-mode");
+    btn.textContent = "☀️";
+  }
+
+  btn.addEventListener("click", function() {
+    document.body.classList.toggle("dark-mode");
+    
+    let theme = "light";
+    if (document.body.classList.contains("dark-mode")) {
+      theme = "dark";
+      btn.textContent = "☀️";
+    } else {
+      btn.textContent = "🌙";
+    }
+    localStorage.setItem("theme", theme);
+  });
+</script>
