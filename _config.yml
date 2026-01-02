@@ -1,12 +1,8 @@
 remote_theme: pages-themes/minimal
-title: [Arna Ghosh]
+title: Arna Ghosh
 # description: [Short Bio / Your Tagline]
 logo: /assets/img/Arna-oldPort.jpg # If you have a photo in this folder
 show_downloads: false
-
-# Social Links
-linkedin_username: arna-ghosh-47852b73
-github_username: arnaghosh
 twitter_username: arna_ghosh
 # If you want to show your email
 description: >
@@ -15,3 +11,14 @@ description: >
   [\<first_name\>g@google.com]
   <br>
   Studying intelligence, both artificial & biological
+  <br>>br>
+  # Social Links
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css">
+  <div style="font-size: 1.5rem;">
+    <a href="https://github.com/arnaghosh" style="margin-right: 15px; color: #24292e;"><i class="fa-brands fa-github"></i></a>
+    <a href="https://linkedin.com/in/arna-ghosh-47852b73" style="margin-right: 15px; color: #0077b5;"><i class="fa-brands fa-linkedin"></i></a>
+    <a href="mailto:arnag@google.com" style="color: #ea4335;"><i class="fa-solid fa-envelope"></i></a>
+  </div>
+# This allows us to use Font Awesome icons
+header_pages:
+  - index.md
