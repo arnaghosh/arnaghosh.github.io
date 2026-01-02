@@ -3,7 +3,7 @@ layout: default
 page_title: "Arna Ghosh | Research Scientist"
 ---
 
-# Welcome to my Portfolio
+# Arna Ghosh
 Briefly introduce yourself here. I am a developer interested in...
 
 ---

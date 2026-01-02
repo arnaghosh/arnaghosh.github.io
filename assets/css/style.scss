@@ -72,3 +72,21 @@
 
 /* Optional: Different colors for different categories */
 .tag:contains('AI') { background-color: #e6ffed; color: #22863a; border-color: #bef5cb; }
+
+/* 1. Hide the default sidebar title (which is now "Research Scientist") */
+header h1 a {
+  visibility: hidden;
+  position: relative;
+}
+
+/* 2. Inject "Arna Ghosh" in its place */
+header h1 a::after {
+  content: "Arna Ghosh";
+  visibility: visible;
+  position: absolute;
+  left: 0;
+  top: 0;
+  white-space: nowrap;
+  color: #333; /* Match the theme's text color */
+  font-weight: bold;
+}
