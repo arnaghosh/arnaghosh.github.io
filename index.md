@@ -1,5 +1,7 @@
 ---
 layout: default
+title: " "
+seo_title: "Arna Ghosh | Research Scientist"
 ---
 
 # Welcome to my Portfolio
