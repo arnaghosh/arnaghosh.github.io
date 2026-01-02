@@ -32,6 +32,13 @@ body.dark-mode .project-card {
   color: var(--text-color) !important;
 }
 
+/* Dark Mode Hover Behavior */
+body.dark-mode .project-card:hover {
+  background-color: #1c2128 !important; /* Slightly lighter than the card-bg */
+  border-color: #58a6ff !important;     /* Bright GitHub blue border */
+  box-shadow: 0 8px 24px rgba(0,0,0,0.4); /* Deeper shadow for dark mode */
+}
+
 body.dark-mode .tag {
   background-color: #1f2937 !important;
   color: #58a6ff !important;
@@ -51,6 +58,14 @@ body.dark-mode header h1 a::after {
 /* Ensure links are visible */
 body.dark-mode a {
   color: var(--link-color);
+}
+
+body.dark-mode .resume-btn {
+  background-color: #1f6feb !important; /* Brighter blue for dark mode */
+}
+
+body.dark-mode .resume-btn:hover {
+  background-color: #388bfd !important;
 }
 
 /* Floating Toggle Button Style */
