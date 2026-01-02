@@ -54,28 +54,24 @@ Briefly introduce yourself here. I am a developer interested in...
 
 ---
 
-<button id="theme-toggle" title="Toggle Dark Mode">🌙</button>
+<button id="theme-toggle" title="Toggle Dark Mode" style="cursor:pointer; background:none; border:none; font-size:1.5rem; position:fixed; top:20px; right:20px; z-index:1000;">🌙</button>
 
 <script>
   const btn = document.getElementById("theme-toggle");
+  const prefersDarkScheme = window.matchMedia("(prefers-color-scheme: dark)");
+  
+  // 1. Determine starting theme
   const currentTheme = localStorage.getItem("theme");
-
-  // Check for saved user preference
-  if (currentTheme === "dark") {
+  if (currentTheme === "dark" || (currentTheme === null && prefersDarkScheme.matches)) {
     document.body.classList.add("dark-mode");
     btn.textContent = "☀️";
   }
 
+  // 2. Toggle Logic
   btn.addEventListener("click", function() {
     document.body.classList.toggle("dark-mode");
-    
-    let theme = "light";
-    if (document.body.classList.contains("dark-mode")) {
-      theme = "dark";
-      btn.textContent = "☀️";
-    } else {
-      btn.textContent = "🌙";
-    }
+    let theme = document.body.classList.contains("dark-mode") ? "dark" : "light";
+    btn.textContent = theme === "dark" ? "☀️" : "🌙";
     localStorage.setItem("theme", theme);
   });
 </script>
