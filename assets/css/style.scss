@@ -1,0 +1,36 @@
+---
+---
+@import "{{ site.theme }}";
+
+/* Project Card Styling */
+.project-card {
+  border: 1px solid #e1e4e8;
+  border-radius: 8px;
+  padding: 20px;
+  margin-bottom: 20px;
+  background-color: #ffffff;
+  transition: all 0.3s ease; /* This makes the hover look smooth */
+  box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+}
+
+/* Hover Effect */
+.project-card:hover {
+  transform: translateY(-5px); /* Lifts the card up slightly */
+  box-shadow: 0 8px 15px rgba(0,0,0,0.1); /* Adds a soft shadow */
+  border-color: #0366d6; /* Changes border to GitHub blue */
+}
+
+.project-card h3 {
+  margin-top: 0;
+  color: #0366d6;
+}
+
+.project-link {
+  font-weight: bold;
+  text-decoration: none;
+  color: #0366d6;
+}
+
+.project-link:hover {
+  text-decoration: underline;
+}
