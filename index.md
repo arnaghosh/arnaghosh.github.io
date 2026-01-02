@@ -1,6 +1,5 @@
 ---
 layout: default
-title: Arna Ghosh | Research Scientist
 ---
 
 # Welcome to my Portfolio
