@@ -56,64 +56,61 @@ During my MSc, also at McGill University, under the supervision of <a href="http
 
   <div class="column">
     <h2> 🚀 Projects </h2>
-    <div class="project-grid">
 
-      <div class="project-card">
-      <h3>🧠 Brain Age Estimation</h3>
-      <div class="tags"><span class="tag">Neuroscience</span><span class="tag">ML</span><span class="tag">MRI/MEG</span></div>
-      Developed a framework to predict brain age from structural MRI and MEG. Identified subcortical biomarkers using CCA and Graph Convolutional Networks.
-      <div class="card-links">[Code](https://github.com/axifra/BrainAge_MRI-MEG) | [Paper](https://www.sciencedirect.com/science/article/pii/S1053811921000999)</div>
-      </div>
+    <div class="project-card">
+    <h3>🧠 Brain Age Estimation</h3>
+    <div class="tags"><span class="tag">Neuroscience</span><span class="tag">ML</span><span class="tag">MRI/MEG</span></div>
+    Developed a framework to predict brain age from structural MRI and MEG. Identified subcortical biomarkers using CCA and Graph Convolutional Networks.
+    <div class="card-links">[Code](https://github.com/axifra/BrainAge_MRI-MEG) | [Paper](https://www.sciencedirect.com/science/article/pii/S1053811921000999)</div>
+    </div>
 
-      <div class="project-card">
-      <h3>⌨️ Brexting (Brain Texting)</h3>
-      <div class="tags"><span class="tag">DL</span><span class="tag">FPGA</span><span class="tag">EEG</span></div>
-      Silver & Iron Award winner at Intel Innovate FPGA. Built a DL framework on an Intel FPGA for real-time decoding of imagined motor movements.
-      <div class="card-links">[Code](https://github.com/arnaghosh/Brexting)</div>
-      </div>
+    <div class="project-card">
+    <h3>⌨️ Brexting (Brain Texting)</h3>
+    <div class="tags"><span class="tag">DL</span><span class="tag">FPGA</span><span class="tag">EEG</span></div>
+    Silver & Iron Award winner at Intel Innovate FPGA. Built a DL framework on an Intel FPGA for real-time decoding of imagined motor movements.
+    <div class="card-links">[Code](https://github.com/arnaghosh/Brexting)</div>
+    </div>
 
-      <div class="project-card">
-      <h3>📈 EEG Motor Task Analysis</h3>
-      <div class="tags"><span class="tag">Torch</span><span class="tag">Interpretability</span><span class="tag">DL</span></div>
-      Developed **ccCAM** for feature visualization in EEG-based CNNs. Introduced adversarial training strategies to improve cross-population generalization.
-      <div class="card-links">[Code](https://github.com/BioSigSystLab/EEG-exercise-DeepLearning) | [Paper](https://www.frontiersin.org/articles/10.3389/fnins.2019.01215/full)</div>
-      </div>
+    <div class="project-card">
+    <h3>📈 EEG Motor Task Analysis</h3>
+    <div class="tags"><span class="tag">Torch</span><span class="tag">Interpretability</span><span class="tag">DL</span></div>
+    Developed **ccCAM** for feature visualization in EEG-based CNNs. Introduced adversarial training strategies to improve cross-population generalization.
+    <div class="card-links">[Code](https://github.com/BioSigSystLab/EEG-exercise-DeepLearning) | [Paper](https://www.frontiersin.org/articles/10.3389/fnins.2019.01215/full)</div>
+    </div>
 
-      <div class="project-card">
-      <h3>🔬 Mitotic Figure Detection</h3>
-      <div class="tags"><span class="tag">Computer Vision</span><span class="tag">Medical AI</span></div>
-      Awarded Best Bachelor Thesis. Used Deep Semantic Architectures in Torch for localization and classification of mitotic nuclei in histopathological images.
-      <div class="card-links">[Code](https://github.com/arnaghosh/mitotic-figure-detection) | [Paper](https://ieeexplore.ieee.org/document/8300425)</div>
-      </div>
+    <div class="project-card">
+    <h3>🔬 Mitotic Figure Detection</h3>
+    <div class="tags"><span class="tag">Computer Vision</span><span class="tag">Medical AI</span></div>
+    Awarded Best Bachelor Thesis. Used Deep Semantic Architectures in Torch for localization and classification of mitotic nuclei in histopathological images.
+    <div class="card-links">[Code](https://github.com/arnaghosh/mitotic-figure-detection) | [Paper](https://ieeexplore.ieee.org/document/8300425)</div>
+    </div>
 
-      <div class="project-card">
-      <h3>⚡ Sensorimotor Networks</h3>
-      <div class="tags"><span class="tag">Robotics</span><span class="tag">Interfacing</span><span class="tag">EEG/fMRI</span></div>
-      MITACS Globalink Intern. Interfaced EEG, EMG, and fMRI setups with hardware triggers to study motor learning characteristics and learning curves.
-      <div class="card-links">[Code](https://github.com/arnaghosh/MITACS)</div>
-      </div>
+    <div class="project-card">
+    <h3>⚡ Sensorimotor Networks</h3>
+    <div class="tags"><span class="tag">Robotics</span><span class="tag">Interfacing</span><span class="tag">EEG/fMRI</span></div>
+    MITACS Globalink Intern. Interfaced EEG, EMG, and fMRI setups with hardware triggers to study motor learning characteristics and learning curves.
+    <div class="card-links">[Code](https://github.com/arnaghosh/MITACS)</div>
+    </div>
 
-      <div class="project-card">
-      <h3>🚗 Autonomous Ground Vehicle</h3>
-      <div class="tags"><span class="tag">ROS</span><span class="tag">LIDAR</span><span class="tag">Sensor Fusion</span></div>
-      Developed perception modules for road segmentation and visual odometry. Qualified for Mahindra Rise Prize and IGVC 2015 Auto-navigation.
-      <div class="card-links">[Repo](http://www.agv.iitkgp.ac.in/) | [Paper](https://arxiv.org/pdf/1611.06069.pdf)</div>
-      </div>
+    <div class="project-card">
+    <h3>🚗 Autonomous Ground Vehicle</h3>
+    <div class="tags"><span class="tag">ROS</span><span class="tag">LIDAR</span><span class="tag">Sensor Fusion</span></div>
+    Developed perception modules for road segmentation and visual odometry. Qualified for Mahindra Rise Prize and IGVC 2015 Auto-navigation.
+    <div class="card-links">[Repo](http://www.agv.iitkgp.ac.in/) | [Paper](https://arxiv.org/pdf/1611.06069.pdf)</div>
+    </div>
 
-      <div class="project-card">
-      <h3>📱 Smart Phone Microscopy</h3>
-      <div class="tags"><span class="tag">Image Processing</span><span class="tag">iOS/OpenCV</span></div>
-      Created high-frame-rate (240 fps) video capture for microscopy. Developed Arduino hardware-software interfaces for fast deblurring and sharpening.
-      <div class="card-links">[Code](https://github.com/arnaghosh/Microscope)</div>
-      </div>
+    <div class="project-card">
+    <h3>📱 Smart Phone Microscopy</h3>
+    <div class="tags"><span class="tag">Image Processing</span><span class="tag">iOS/OpenCV</span></div>
+    Created high-frame-rate (240 fps) video capture for microscopy. Developed Arduino hardware-software interfaces for fast deblurring and sharpening.
+    <div class="card-links">[Code](https://github.com/arnaghosh/Microscope)</div>
+    </div>
 
-      <div class="project-card">
-      <h3>🇮🇳 IndicView (Google-IIT)</h3>
-      <div class="tags"><span class="tag">OCR</span><span class="tag">Binarization</span></div>
-      Funded by Google. Implemented Sauvola binarization and word detection algorithms for scanned documents in various Indian languages.
-      <div class="card-links">[Details](https://cse.iitkgp.ac.in/~pawang/projects/indicView.html)</div>
-      </div>
-
+    <div class="project-card">
+    <h3>🇮🇳 IndicView (Google-IIT)</h3>
+    <div class="tags"><span class="tag">OCR</span><span class="tag">Binarization</span></div>
+    Funded by Google. Implemented Sauvola binarization and word detection algorithms for scanned documents in various Indian languages.
+    <div class="card-links">[Details](https://cse.iitkgp.ac.in/~pawang/projects/indicView.html)</div>
     </div>
   </div>
 </div> 
