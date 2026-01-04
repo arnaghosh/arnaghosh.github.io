@@ -5,6 +5,7 @@ logo: /assets/img/IMG_8457.jpeg
 show_downloads: false
 # If you want to show your email
 description: >
+  # Arna Ghosh
   <b>Research Scientist, Google Research</b>
   <br>
   Studying artificial & biological intelligence
@@ -17,11 +18,9 @@ description: >
     <a href="https://bsky.app/profile/arnaghosh.bsky.social" target="_blank" rel="noopener noreferrer" style="margin-right: 12px; color: #0085ff;"><i class="fa-brands fa-bluesky"></i></a>
     <a title="Contact: [first_name] g [at] google [dot] com" style="color: #ea4335; cursor: help;"><i class="fa-solid fa-envelope"></i></a>
     <a href="/Arna_CV.pdf" target="_blank" class="resume-btn">
-  </div>
-  # <br>
-  # <a href="/Arna_CV.pdf" target="_blank" class="resume-btn">
-  #   View Resume
-  # </a>
+      View Resume
+    </a>
+   </div>
 # This allows us to use Font Awesome icons
 header_pages:
   - index.md

@@ -2,12 +2,12 @@
 layout: default
 page_title: "Arna Ghosh | Research Scientist"
 ---
-# Arna Ghosh
+<!-- # Arna Ghosh -->
 I am a Research Scientist at Google Research, where I work on biologically-inspired artificial intelligence.
 
 Previously, I completed a PhD in Computer Science at Mila-Quebec AI Institute and McGill University, under the supervision of <a href="https://linclab.mila.quebec/team/blake" target="_blank"> Blake Richards</a>, where I focused on neuro-inspired unsupervised representation learning and biologically-plausible credit assignment algorithms. My PhD interships at Meta involved developing deep learning models for neuromotor interfaces.
 
-During my MSc, also at McGill University, under the supervision of <a href="https://boudriaslab.com/en/team/" target="_blank"> Marie-Hélène Boudrias</a> and <a href="https://www.mcgill.ca/bioengineering/people/faculty/georgios-mitsis" target="_blank"> Georgios Mitsis</a>, I developed deep learning techniques to advance neuroimaging analysis. I obtained my undergraduate degree in Electrical Engineering from <a href="http://www.iitkgp.ac.in/" target="_blank">Indian Institute of Technology Kharagpur</a>. 
+During my MSc, also at McGill University, under the supervision of <a href="https://boudriaslab.com/en/team/" target="_blank"> Marie-Hélène Boudrias</a> and <a href="https://www.mcgill.ca/bbme/georgios-mitsis" target="_blank"> Georgios Mitsis</a>, I developed deep learning techniques to advance neuroimaging analysis. I obtained my undergraduate degree in Electrical Engineering from <a href="http://www.iitkgp.ac.in/" target="_blank">Indian Institute of Technology Kharagpur</a>. 
 
 ---
 
@@ -26,31 +26,31 @@ During my MSc, also at McGill University, under the supervision of <a href="http
     <div class="pub-item">
       <strong>Harnessing small projectors and multiple views for efficient vision pretraining</strong><br>
       <b>A. Ghosh*</b>, K.K. Agrawal*, S. Sodhani, A. Oberman, B.A. Richards<br>
-      <em>NeurIPS 2024</em> | <a href="#">PDF</a>
+      <em>NeurIPS 2024</em> | <a href="https://neurips.cc/virtual/2024/poster/94719">NeurIPS Paper→</a> | <a href="https://arxiv.org/abs/2312.10725">arXiv Paper →</a> | <a href="https://sites.google.com/view/harnessing-small-projectors" class="project-link" target="_blank">Project website →</a>
     </div>
 
     <div class="pub-item">
       <strong>Synaptic Weight Distributions Depend on the Geometry of Plasticity</strong><br>
       R. Pogodin*, J. Cornford*, <b>A. Ghosh</b>, G. Gidel, G. Lajoie, B.A. Richards<br>
-      <em>ICLR 2024</em> <span class="badge spotlight">Spotlight</span> | <a href="#">PDF</a>
+      <em>ICLR 2024</em> <span class="badge spotlight">Spotlight</span> | <a href="https://openreview.net/forum?id=x5txICnnjC" class="project-link" target="_blank">Paper →</a> | <a href="https://github.com/romanpogodin/synaptic-weight-distr" class="project-link" target="_blank">Code →</a>
     </div>
 
     <div class="pub-item">
       <strong>How gradient estimator variance and bias impact learning in neural networks</strong><br>
       <b>A. Ghosh</b>, Y.H. Liu, G. Lajoie, K.P. Körding, B.A. Richards<br>
-      <em>ICLR 2023</em> | <a href="#">PDF</a>
+      <em>ICLR 2023</em> | <a href="https://openreview.net/forum?id=EBC60mxBwyw" class="project-link" target="_blank">Paper →</a> | <a href="https://github.com/linclab/approximateGradients" class="project-link" target="_blank">Code →</a>
     </div>
 
     <div class="pub-item">
       <strong>α-ReQ: Assessing representation quality by measuring eigenspectrum decay</strong><br>
       K.K. Agrawal*, A.K. Mondal*, <b>A. Ghosh*</b>, B.A. Richards<br>
-      <em>NeurIPS 2022</em> | <a href="#">PDF</a>
+      <em>NeurIPS 2022</em> | <a href="https://openreview.net/forum?id=ii9X4vtZGTZ" class="project-link" target="_blank">Paper →</a> | <a href="https://mila.quebec/en/article/a-req-assessing-representation-quality-in-ssl" class="project-link" target="_blank">Blogpost →</a> | 
     </div>
 
     <div class="pub-item">
       <strong>Estimating brain age from structural MRI and MEG data</strong><br>
       A. Xifra-Porxas*, <b>A. Ghosh*</b>, G.D. Mitsis, M.H. Boudrias<br>
-      <em>NeuroImage</em> (2021) | <a href="https://doi.org/10.1016/j.neuroimage.2021.117822">Journal</a>
+      <em>NeuroImage</em> (2021) | <a href="https://doi.org/10.1016/j.neuroimage.2021.117822">Journal</a> | <a href="https://github.com/axifra/BrainAge_MRI-MEG" class="project-link" target="_blank">Blogpost →</a> | 
     </div>
   </div>
 
