@@ -15,55 +15,67 @@ During my MSc, also at McGill University, under the supervision of <a href="http
 
   <div class="column">
     <h2> 📚 Selected Publications </h2>
+    <p style="font-size: 0.8rem; color: #666; margin-bottom: 20px;">Sorted By: Most recent</p>
     <p style="font-size: 0.8rem; color: #666; margin-bottom: 20px;">* denotes equal contribution</p>
+    <br>
 
     <div class="pub-item">
       <strong>Tracing the Representation Geometry of Language Models from Pretraining to Post-training</strong><br>
       M.Z. Li*, K.K. Agrawal*, <b>A. Ghosh*</b>, K.K. Teru, A. Santoro, G. Lajoie, B.A. Richards<br>
       <em>NeurIPS 2025</em> | <a href="https://arxiv.org/abs/2509.23024" class="project-link" target="_blank">Paper →</a> | <a href="https://melodylizx.github.io/llm-geometry-project/" class="project-link" target="_blank">Project website →</a>
     </div>
+    <br>
 
     <div class="pub-item">
       <strong>Harnessing small projectors and multiple views for efficient vision pretraining</strong><br>
       <b>A. Ghosh*</b>, K.K. Agrawal*, S. Sodhani, A. Oberman, B.A. Richards<br>
       <em>NeurIPS 2024</em> | <a href="https://neurips.cc/virtual/2024/poster/94719" class="project-link" target="_blank">NeurIPS Paper→</a> | <a href="https://arxiv.org/abs/2312.10725" class="project-link" target="_blank">arXiv Paper →</a> | <a href="https://sites.google.com/view/harnessing-small-projectors" class="project-link" target="_blank">Project website →</a>
     </div>
+    <br>
 
     <div class="pub-item">
       <strong>Synaptic Weight Distributions Depend on the Geometry of Plasticity</strong><br>
       R. Pogodin*, J. Cornford*, <b>A. Ghosh</b>, G. Gidel, G. Lajoie, B.A. Richards<br>
       <em>ICLR 2024</em> <span class="badge spotlight">Spotlight</span> | <a href="https://openreview.net/forum?id=x5txICnnjC" class="project-link" target="_blank">Paper →</a> | <a href="https://github.com/romanpogodin/synaptic-weight-distr" class="project-link" target="_blank">Code →</a>
     </div>
+    <br>
 
     <div class="pub-item">
       <strong>How gradient estimator variance and bias impact learning in neural networks</strong><br>
       <b>A. Ghosh</b>, Y.H. Liu, G. Lajoie, K.P. Körding, B.A. Richards<br>
       <em>ICLR 2023</em> | <a href="https://openreview.net/forum?id=EBC60mxBwyw" class="project-link" target="_blank">Paper →</a> | <a href="https://github.com/linclab/approximateGradients" class="project-link" target="_blank">Code →</a>
     </div>
+    <br>
 
     <div class="pub-item">
       <strong>α-ReQ: Assessing representation quality by measuring eigenspectrum decay</strong><br>
       K.K. Agrawal*, A.K. Mondal*, <b>A. Ghosh*</b>, B.A. Richards<br>
       <em>NeurIPS 2022</em> | <a href="https://openreview.net/forum?id=ii9X4vtZGTZ" class="project-link" target="_blank">Paper →</a> | <a href="https://mila.quebec/en/article/a-req-assessing-representation-quality-in-ssl" class="project-link" target="_blank">Blogpost →</a> | 
     </div>
+    <br>
 
     <div class="pub-item">
       <strong>Estimating brain age from structural MRI and MEG data</strong><br>
       A. Xifra-Porxas*, <b>A. Ghosh*</b>, G.D. Mitsis, M.H. Boudrias<br>
       <em>NeuroImage</em> (2021) | <a href="https://doi.org/10.1016/j.neuroimage.2021.117822" class="project-link" target="_blank">Paper →</a> | <a href="https://github.com/axifra/BrainAge_MRI-MEG" class="project-link" target="_blank">Code →</a> | 
+      <br>
+
     </div>
   </div>
 
   <div class="column">
-    <h2> 🚀 Projects </h2>
+    <h2> 🚀 Research Directions </h2>
 
     <div class="project-card">
-    <h3>🧠 Brain Age Estimation</h3>
+    <h3>🧠 Representation Geometry</h3>
     <div class="tags"><span class="tag">Neuroscience</span><span class="tag">ML</span><span class="tag">MRI/MEG</span></div>
-    Developed a framework to predict brain age from structural MRI and MEG. Identified subcortical biomarkers using CCA and Graph Convolutional Networks.
-    <div class="card-links">[Code](https://github.com/axifra/BrainAge_MRI-MEG) | [Paper](https://www.sciencedirect.com/science/article/pii/S1053811921000999)</div>
+    This direction
+    1. <a href="https://arxiv.org/abs/2509.23024" class="project-link" target="_blank">Li*, Agrawal*, <b>Ghosh*</b>, et al., <em>NeurIPS 2025</em> </a> 
+    2. <a href="https://openreview.net/forum?id=ii9X4vtZGTZ" class="project-link" target="_blank">Agrawal*, Mondal*, <b>Ghosh*</b>, and Richards, <em>NeurIPS 2022</em> </a>
+    
     </div>
 
+    <!-- Developed a framework to predict brain age from structural MRI and MEG. Identified subcortical biomarkers using CCA and Graph Convolutional Networks. -->
     <div class="project-card">
     <h3>⌨️ Brexting (Brain Texting)</h3>
     <div class="tags"><span class="tag">DL</span><span class="tag">FPGA</span><span class="tag">EEG</span></div>
