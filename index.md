@@ -69,9 +69,14 @@ During my MSc, also at McGill University, under the supervision of <a href="http
     <div class="project-card">
     <h3>🧠 Representation Geometry</h3>
     <div class="tags"><span class="tag">Neuroscience</span><span class="tag">ML</span><span class="tag">MRI/MEG</span></div>
-    This direction
-    1. <a href="https://arxiv.org/abs/2509.23024" class="project-link" target="_blank">Li*, Agrawal*, <b>Ghosh*</b>, et al., <em>NeurIPS 2025</em> </a> 
-    2. <a href="https://openreview.net/forum?id=ii9X4vtZGTZ" class="project-link" target="_blank">Agrawal*, Mondal*, <b>Ghosh*</b>, and Richards, <em>NeurIPS 2022</em> </a>
+    We are investigating the geometric structure and spectral properties of neural network representations to understand how artificial and biological systems encode information. This can be further used to develop task-agnostic metrics that predict model behavior (e.g., generalization) and reveal how learning occurs in large-scale vision and language models.
+    <br>
+    1. <a href="https://arxiv.org/abs/2509.23024" class="project-link" target="_blank">Li*, Agrawal*, <b>Ghosh*</b>, et al., <em>NeurIPS 2025</em>. </a> 
+    <br>
+    2. <a href="https://openreview.net/forum?id=Mt420NAIrX" class="project-link" target="_blank"><b>Ghosh*</b>, Chorghay*, Bhaktiari, and Richards, <em>NeurReps 2025</em>. </a> 
+    <br>
+    3. <a href="https://openreview.net/forum?id=ii9X4vtZGTZ" class="project-link" target="_blank">Agrawal*, Mondal*, <b>Ghosh*</b>, and Richards, <em>NeurIPS 2022</em>. </a>
+    <br>
     
     </div>
 
