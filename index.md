@@ -13,7 +13,7 @@ During my MSc, also at McGill University, under the supervision of <a href="http
 
 <div class="main-grid">
 
-  <div class="column">
+  <div class="column" markdown="1">
     ## 📚 Selected Publications
     <p style="font-size: 0.8rem; color: #666; margin-bottom: 20px;">* denotes equal contribution</p>
 
@@ -26,7 +26,7 @@ During my MSc, also at McGill University, under the supervision of <a href="http
     <div class="pub-item">
       <strong>Harnessing small projectors and multiple views for efficient vision pretraining</strong><br>
       <b>A. Ghosh*</b>, K.K. Agrawal*, S. Sodhani, A. Oberman, B.A. Richards<br>
-      <em>NeurIPS 2024</em> | <a href="https://neurips.cc/virtual/2024/poster/94719">NeurIPS Paper→</a> | <a href="https://arxiv.org/abs/2312.10725">arXiv Paper →</a> | <a href="https://sites.google.com/view/harnessing-small-projectors" class="project-link" target="_blank">Project website →</a>
+      <em>NeurIPS 2024</em> | <a href="https://neurips.cc/virtual/2024/poster/94719" class="project-link" target="_blank">NeurIPS Paper→</a> | <a href="https://arxiv.org/abs/2312.10725" class="project-link" target="_blank">arXiv Paper →</a> | <a href="https://sites.google.com/view/harnessing-small-projectors" class="project-link" target="_blank">Project website →</a>
     </div>
 
     <div class="pub-item">
@@ -50,11 +50,11 @@ During my MSc, also at McGill University, under the supervision of <a href="http
     <div class="pub-item">
       <strong>Estimating brain age from structural MRI and MEG data</strong><br>
       A. Xifra-Porxas*, <b>A. Ghosh*</b>, G.D. Mitsis, M.H. Boudrias<br>
-      <em>NeuroImage</em> (2021) | <a href="https://doi.org/10.1016/j.neuroimage.2021.117822">Journal</a> | <a href="https://github.com/axifra/BrainAge_MRI-MEG" class="project-link" target="_blank">Blogpost →</a> | 
+      <em>NeuroImage</em> (2021) | <a href="https://doi.org/10.1016/j.neuroimage.2021.117822" class="project-link" target="_blank">Paper →</a> | <a href="https://github.com/axifra/BrainAge_MRI-MEG" class="project-link" target="_blank">Code →</a> | 
     </div>
   </div>
 
-  <div class="column">
+  <div class="column" markdown="1">
     ## 🚀 Projects
     
     <div class="project-card">
