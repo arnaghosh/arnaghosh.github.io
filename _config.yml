@@ -1,7 +1,7 @@
 remote_theme: pages-themes/minimal
-title: Research Scientist
-# description: [Short Bio / Your Tagline]
-logo: /assets/img/IMG_8457.jpeg # If you have a photo in this folder
+title: Arna Ghosh
+# description: [Research Scientist, Google Research]
+logo: /assets/img/IMG_8457.jpeg 
 show_downloads: false
 # If you want to show your email
 description: >
@@ -16,11 +16,12 @@ description: >
     <a href="https://twitter.com/arna_ghosh" target="_blank" rel="noopener noreferrer" style="margin-right: 12px; color: #000000;"><i class="fa-brands fa-x-twitter"></i></a>
     <a href="https://bsky.app/profile/arnaghosh.bsky.social" target="_blank" rel="noopener noreferrer" style="margin-right: 12px; color: #0085ff;"><i class="fa-brands fa-bluesky"></i></a>
     <a title="Contact: [first_name] g [at] google [dot] com" style="color: #ea4335; cursor: help;"><i class="fa-solid fa-envelope"></i></a>
+    <a href="/Arna_CV.pdf" target="_blank" class="resume-btn">
   </div>
-  <br>
-  <a href="/Arna_CV.pdf" target="_blank" class="resume-btn">
-    View Resume
-  </a>
+  # <br>
+  # <a href="/Arna_CV.pdf" target="_blank" class="resume-btn">
+  #   View Resume
+  # </a>
 # This allows us to use Font Awesome icons
 header_pages:
   - index.md

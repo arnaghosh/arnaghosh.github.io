@@ -3,21 +3,55 @@ layout: default
 page_title: "Arna Ghosh | Research Scientist"
 ---
 # Arna Ghosh
-Briefly introduce yourself here. I am a developer interested in...
+I am a Research Scientist at Google Research, where I work on biologically-inspired artificial intelligence.
+
+Previously, I completed a PhD in Computer Science at Mila-Quebec AI Institute and McGill University, under the supervision of <a href="https://linclab.mila.quebec/team/blake" target="_blank"> Blake Richards</a>, where I focused on neuro-inspired unsupervised representation learning and biologically-plausible credit assignment algorithms. My PhD interships at Meta involved developing deep learning models for neuromotor interfaces.
+
+During my MSc, also at McGill University, under the supervision of <a href="https://boudriaslab.com/en/team/" target="_blank"> Marie-Hélène Boudrias</a> and <a href="https://www.mcgill.ca/bioengineering/people/faculty/georgios-mitsis" target="_blank"> Georgios Mitsis</a>, I developed deep learning techniques to advance neuroimaging analysis. I obtained my undergraduate degree in Electrical Engineering from <a href="http://www.iitkgp.ac.in/" target="_blank">Indian Institute of Technology Kharagpur</a>. 
+
 ---
 
 <div class="main-grid">
 
   <div class="column">
     ## 📚 Selected Publications
-    
-    <p><strong>Representation Geometry in ANNs</strong><br>
-    <em>A. Ghosh, et al.</em> | Conference Name 2024<br>
-    <a href="#">PDF</a> | <a href="#">Abstract</a></p>
+    <p style="font-size: 0.8rem; color: #666; margin-bottom: 20px;">* denotes equal contribution</p>
 
-    <p><strong>Neural Dynamics of BCI</strong><br>
-    <em>A. Ghosh, et al.</em> | Journal Name 2023<br>
-    <a href="#">PDF</a></p>
+    <div class="pub-item">
+      <strong>Tracing the Representation Geometry of Language Models from Pretraining to Post-training</strong><br>
+      M.Z. Li*, K.K. Agrawal*, <b>A. Ghosh*</b>, K.K. Teru, A. Santoro, G. Lajoie, B.A. Richards<br>
+      <em>NeurIPS 2025</em> | <a href="https://arxiv.org/abs/2509.23024" class="project-link" target="_blank">Paper →</a> | <a href="https://melodylizx.github.io/llm-geometry-project/" class="project-link" target="_blank">Project website →</a>
+    </div>
+
+    <div class="pub-item">
+      <strong>Harnessing small projectors and multiple views for efficient vision pretraining</strong><br>
+      <b>A. Ghosh*</b>, K.K. Agrawal*, S. Sodhani, A. Oberman, B.A. Richards<br>
+      <em>NeurIPS 2024</em> | <a href="#">PDF</a>
+    </div>
+
+    <div class="pub-item">
+      <strong>Synaptic Weight Distributions Depend on the Geometry of Plasticity</strong><br>
+      R. Pogodin*, J. Cornford*, <b>A. Ghosh</b>, G. Gidel, G. Lajoie, B.A. Richards<br>
+      <em>ICLR 2024</em> <span class="badge spotlight">Spotlight</span> | <a href="#">PDF</a>
+    </div>
+
+    <div class="pub-item">
+      <strong>How gradient estimator variance and bias impact learning in neural networks</strong><br>
+      <b>A. Ghosh</b>, Y.H. Liu, G. Lajoie, K.P. Körding, B.A. Richards<br>
+      <em>ICLR 2023</em> | <a href="#">PDF</a>
+    </div>
+
+    <div class="pub-item">
+      <strong>α-ReQ: Assessing representation quality by measuring eigenspectrum decay</strong><br>
+      K.K. Agrawal*, A.K. Mondal*, <b>A. Ghosh*</b>, B.A. Richards<br>
+      <em>NeurIPS 2022</em> | <a href="#">PDF</a>
+    </div>
+
+    <div class="pub-item">
+      <strong>Estimating brain age from structural MRI and MEG data</strong><br>
+      A. Xifra-Porxas*, <b>A. Ghosh*</b>, G.D. Mitsis, M.H. Boudrias<br>
+      <em>NeuroImage</em> (2021) | <a href="https://doi.org/10.1016/j.neuroimage.2021.117822">Journal</a>
+    </div>
   </div>
 
   <div class="column">
