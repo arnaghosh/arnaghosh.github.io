@@ -236,3 +236,39 @@ header img {
   padding-bottom: 10px;
   margin-bottom: 20px;
 }
+
+header img {
+  margin: 0 auto 15px auto;
+  display: block;
+  
+  /* Set your desired size here */
+  width: 150px; 
+  height: 150px;
+  
+  /* This ensures the image doesn't stretch or squish */
+  object-fit: cover; 
+  
+  /* Makes it a circle. Use 8px for rounded corners instead. */
+  border-radius: 50%; 
+  
+  /* Adds a nice border to make it pop */
+  border: 3px solid #e1e4e8;
+}
+
+/* Dark mode border adjustment */
+body.dark-mode header img {
+  border-color: #30363d !important;
+}
+
+.column p {
+  font-size: 0.95rem;
+  line-height: 1.6;
+  margin-bottom: 15px;
+}
+
+header div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 15px; /* Consistent spacing between icons */
+}
