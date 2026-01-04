@@ -272,3 +272,34 @@ header div {
   align-items: center;
   gap: 15px; /* Consistent spacing between icons */
 }
+
+/* Card internal layout */
+.project-card h3 {
+  margin-top: 0;
+  font-size: 1.1rem;
+  color: #0366d6;
+}
+
+.card-links {
+  margin-top: auto; /* Pushes links to the bottom of the card */
+  padding-top: 15px;
+  font-size: 0.85rem;
+  font-weight: bold;
+}
+
+.project-card p {
+  font-size: 0.9rem;
+  line-height: 1.4;
+  margin-bottom: 10px;
+}
+
+/* Ensure the grid stays tight */
+.project-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 15px;
+}
+
+@media (max-width: 900px) {
+  .project-grid { grid-template-columns: 1fr; }
+}

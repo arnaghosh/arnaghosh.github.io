@@ -115,7 +115,7 @@ During my MSc, also at McGill University, under the supervision of <a href="http
       </div>
 
     </div>
-
+  </div>
 </div> 
 
 ---
