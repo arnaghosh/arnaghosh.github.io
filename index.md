@@ -14,9 +14,10 @@ During my MSc, also at McGill University, under the supervision of <a href="http
 
   <div class="column">
     <h2> 📚 Selected Publications </h2>
-    <p style="font-size: 0.8rem; color: #666; margin-bottom: 20px;">Sorted By: Most recent</p>
-    <p style="font-size: 0.8rem; color: #666; margin-bottom: 20px;">* denotes equal contribution</p>
-    <br>
+    <p style="font-size: 0.8rem; color: #666; margin-bottom: 20px;">
+    Sorted By: Most recent <br/>
+    * denotes equal contribution
+    </p>
 
     <div class="pub-item">
       <strong>Tracing the Representation Geometry of Language Models from Pretraining to Post-training</strong><br>
