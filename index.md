@@ -118,7 +118,7 @@ During my MSc, also at McGill University, under the supervision of <a href="http
       <br>
     </div>
   </div>
-<h2 style="text-align: center;"><em>﹏𓂁﹏<em></h2>
+<h2 style="text-align: center;"><em>﹏𓂁﹏</em></h2>
 
 <button id="theme-toggle" title="Toggle Dark Mode" style="cursor:pointer; background:none; border:none; font-size:1.5rem; position:fixed; top:20px; right:20px; z-index:1000;">🌙</button>
 
