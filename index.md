@@ -117,7 +117,8 @@ During my MSc, also at McGill University, under the supervision of <a href="http
       We implemented deep learning algorithms for detection of mitotic nuclei from histopathology images, enabling detection of breast cancers and leukemia.
       <br>
     </div>
-﹏𓂁﹏
+  </div>
+<h2>﹏𓂁﹏</h2>
 
 <button id="theme-toggle" title="Toggle Dark Mode" style="cursor:pointer; background:none; border:none; font-size:1.5rem; position:fixed; top:20px; right:20px; z-index:1000;">🌙</button>
 
