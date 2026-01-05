@@ -2,12 +2,11 @@
 layout: default
 page_title: "Arna Ghosh | Research Scientist"
 ---
-<!-- # Arna Ghosh -->
 I am a Research Scientist at Google Research, where I work on biologically-inspired artificial intelligence.
 
-Previously, I completed a PhD in Computer Science at Mila-Quebec AI Institute and McGill University, under the supervision of <a href="https://linclab.mila.quebec/team/blake" target="_blank"> Blake Richards</a>, where I focused on neuro-inspired unsupervised representation learning and biologically-plausible credit assignment algorithms. My PhD interships at Meta involved developing deep learning models for neuromotor interfaces.
+Previously, I completed a PhD in Computer Science at <a href="https://mila.quebec/en" target="_blank">Mila-Quebec AI Institute</a> and <a href="https://www.mcgill.ca/" target="_blank">McGill University</a>, under the supervision of <a href="https://linclab.mila.quebec/team/blake" target="_blank">Blake Richards</a>, where I focused on neuro-inspired unsupervised representation learning and biologically-plausible credit assignment algorithms. My PhD interships at Meta involved developing deep learning models for neuromotor interfaces.
 
-During my MSc, also at McGill University, under the supervision of <a href="https://boudriaslab.com/en/team/" target="_blank"> Marie-Hélène Boudrias</a> and <a href="https://www.mcgill.ca/bbme/georgios-mitsis" target="_blank"> Georgios Mitsis</a>, I developed deep learning techniques to advance neuroimaging analysis. I obtained my undergraduate degree in Electrical Engineering from <a href="http://www.iitkgp.ac.in/" target="_blank">Indian Institute of Technology Kharagpur</a>. 
+During my MSc, also at McGill University, under the supervision of <a href="https://boudriaslab.com/en/team/" target="_blank">Marie-Hélène Boudrias</a> and <a href="https://www.mcgill.ca/bbme/georgios-mitsis" target="_blank">Georgios Mitsis</a>, I developed deep learning techniques to advance neuroimaging analysis. I obtained my undergraduate degree in Electrical Engineering from <a href="http://www.iitkgp.ac.in/" target="_blank">Indian Institute of Technology Kharagpur</a>. 
 
 ---
 
@@ -100,26 +99,23 @@ During my MSc, also at McGill University, under the supervision of <a href="http
       Deep learning is a powerful tool for biological applications. Here are some of the projects where I developed these pipelines:
       <br>
       <br>
-      1. <a href="https://doi.org/10.1016/j.neuroimage.2021.117822" class="project-link" target="_blank">Xifra-Porxas**, <b>Ghosh*</b>, Mitsis, and Boudrias, <em>NeuroImage 2021</em>. </a> 
+      1. <a href="https://doi.org/10.1016/j.neuroimage.2021.117822" class="project-link" target="_blank">Xifra-Porxas*, <b>Ghosh*</b>, Mitsis, and Boudrias, <em>NeuroImage 2021</em>. </a> 
+      <br>
       We developed and applied a DL framework to predict brain age of healthy subjects from MRI and MEG recordings.
       <br>
       2. <a href="https://www.innovatefpga.com/cgi-bin/innovate/teams2018.pl?Id=AS031" class="project-link" target="_blank"><b>Ghosh*</b>, Sivakumar*, and Tom*, <em>Intel Innovate FPGA Project</em> (Silver & Iron Award Winners). </a> 
+      <br>
       We built a DL framework on an Intel FPGA board for decoding imagined motor movements from EEG recordings to enable real-time typing.
       <br>
       3. <a href="https://www.frontiersin.org/articles/10.3389/fnins.2019.01215/full" class="project-link" target="_blank"><b>Ghosh</b> et al., <em>Frontiers in Neuroscience</em>. </a> 
+      <br>
       We built a DL framework to identify exercise-induced EEG signatures, and improve population-level generalization of deep learning methods in a limited sample setting.
       <br>
-      3. <a href="https://ieeexplore.ieee.org/document/8300425" class="project-link" target="_blank"><b>Ghosh</b>, Singh, and Sheet, <em>IEEE ICIIS</em>. </a> 
+      4. <a href="https://ieeexplore.ieee.org/document/8300425" class="project-link" target="_blank"><b>Ghosh</b>, Singh, and Sheet, <em>IEEE ICIIS</em>. </a> 
+      <br>
       We implemented DL algorithms for detection of mitotic nuclei, enabling detection of breast cancers and leukemia.
       <br>
     </div>
-
-
----
-
-### Skills
-* **Languages:** JavaScript, Python, SQL
-* **Tools:** Git, Docker, AWS
 
 ---
 

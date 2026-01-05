@@ -303,3 +303,29 @@ header div {
 @media (max-width: 900px) {
   .project-grid { grid-template-columns: 1fr; }
 }
+
+/* Hides the "View My GitHub Profile" button in the header */
+header ul {
+  display: none !important;
+}
+
+/* Fix the footer positioning */
+footer {
+  position: relative !important;
+  width: 100% !important;
+  margin-top: 50px !important; /* Adds space between your content and the footer */
+  padding: 20px 0 !important;
+  clear: both !important;      /* Ensures it stays below both columns */
+  text-align: center;         /* Centers the text since your header is centered */
+}
+
+/* Ensure the wrapper allows the footer to sit at the bottom */
+.wrapper {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+section {
+  flex: 1; /* Pushes the footer down if content is short */
+}
