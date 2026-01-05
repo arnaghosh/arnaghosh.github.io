@@ -95,30 +95,29 @@ During my MSc, also at McGill University, under the supervision of <a href="http
     </div>
 
     <div class="project-card">
-      <h3>🔬 Deep Learning (DL) for Biological Applications</h3>
+      <h3>🔬 AI for Biological Applications</h3>
       <div class="tags"><span class="tag">LLM</span><span class="tag">ML / AI</span><span class="tag">Neuroscience</span></div>
-      Deep learning is a powerful tool for biological applications. Here are some of the projects where I developed these pipelines:
+      Here are some of the projects where I developed AI pipelines for biological applications:
       <br>
       <br>
       1. <a href="https://doi.org/10.1016/j.neuroimage.2021.117822" class="project-link" target="_blank">Xifra-Porxas*, <b>Ghosh*</b>, Mitsis, and Boudrias, <em>NeuroImage 2021</em>. </a> 
       <br>
-      We developed and applied a DL framework to predict brain age of healthy subjects from MRI and MEG recordings.
+      We developed and applied a machine learning framework to predict brain age of healthy subjects from MRI and MEG recordings.
       <br>
       2. <a href="https://www.innovatefpga.com/cgi-bin/innovate/teams2018.pl?Id=AS031" class="project-link" target="_blank"><b>Ghosh*</b>, Sivakumar*, and Tom*, <em>Intel Innovate FPGA Project</em> (Silver & Iron Award Winners). </a> 
       <br>
-      We built a DL framework on an Intel FPGA board for decoding imagined motor movements from EEG recordings to enable real-time typing.
+      We built a deep learning framework on an Intel FPGA board for decoding imagined motor movements from EEG recordings to enable real-time typing.
       <br>
       3. <a href="https://www.frontiersin.org/articles/10.3389/fnins.2019.01215/full" class="project-link" target="_blank"><b>Ghosh</b> et al., <em>Frontiers in Neuroscience</em>. </a> 
       <br>
-      We built a DL framework to identify exercise-induced EEG signatures, and improve population-level generalization of deep learning methods in a limited sample setting.
+      We built a deep learning framework to identify exercise-induced EEG signatures, and improve population-level generalization of deep learning methods in a limited sample setting.
       <br>
       4. <a href="https://ieeexplore.ieee.org/document/8300425" class="project-link" target="_blank"><b>Ghosh</b>, Singh, and Sheet, <em>IEEE ICIIS</em>. </a> 
       <br>
-      We implemented DL algorithms for detection of mitotic nuclei, enabling detection of breast cancers and leukemia.
+      We implemented deep learning algorithms for detection of mitotic nuclei from histopathology images, enabling detection of breast cancers and leukemia.
       <br>
     </div>
-
----
+﹏𓂁﹏
 
 <button id="theme-toggle" title="Toggle Dark Mode" style="cursor:pointer; background:none; border:none; font-size:1.5rem; position:fixed; top:20px; right:20px; z-index:1000;">🌙</button>
 
